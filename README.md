@@ -1,16 +1,13 @@
-## Hi there 👋
+### ***25 ～ full-stack web developer***
+*hobbies* ～ simracing / rhythm games (mostly beatmania iidx)
 
-<!--
-**Miraidesu/Miraidesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+*skills*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![skills](https://skillicons.dev/icons?i=js,ts,vue,react,nuxt,tailwind,py,django)](https://skillicons.dev)
+
+*learning*
+
+[![learning](https://skillicons.dev/icons?i=nodejs,express,supabase,docker,gcp,cloudflare)](https://skillicons.dev)
+
