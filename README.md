@@ -9,5 +9,5 @@
 
 *learning*
 
-[![learning](https://skillicons.dev/icons?i=nodejs,express,supabase,docker,gcp,cloudflare)](https://skillicons.dev)
+[![learning](https://skillicons.dev/icons?i=nodejs,elysia,prisma,docker,gcp,cloudflare)](https://skillicons.dev)
 
